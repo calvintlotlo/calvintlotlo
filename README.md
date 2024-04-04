@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Home Lab]
+- [Azure Sentinel Lab]
 
 <h2>Certifications</h2>
 - [CompTIA Security+](Code: P65PSXNZCER1QY9W Verify at: http://verify.CompTIA.org)<br>
